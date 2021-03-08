@@ -12,10 +12,6 @@ if ($controller->isLoggedIn()) {
     header("Location:view.php");
     return;
 }
-
-
-
-
 ?>
 
 <!--
